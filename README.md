@@ -9,7 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobkilonzo&show_icons=true&locale=en&layout=compact" alt="jobkilonzo" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jobkilonzo&show_icons=true&locale=en" alt="jobkilonzo" /></p
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jobkilonzo&show_icons=true&locale=en" alt="jobkilonzo" /></p>
   
   
 ###Connect with me:

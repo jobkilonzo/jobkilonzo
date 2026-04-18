@@ -11,7 +11,7 @@ turning data into intelligent, impactful solutions.
 
 <p align="center">
   <img 
-    src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" 
     alt="coding" 
     width="600"
   />
@@ -19,21 +19,21 @@ turning data into intelligent, impactful solutions.
 
 ---
 
-### 🤝 Connect with me:
+## 🤝 Connect with Me
 <p align="left">
   <a href="https://twitter.com/kilonzojob" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/job-kilonzo-8a12761" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me:
+## 🚀 About Me
 - 🎓 MSc Computer Science (Machine Learning) — *In Progress*  
-- 🎓 BSc Mathematics (First Class Honors)  
+- 🎓 BSc Mathematics & Computer Science (First Class Honors)  
 - 💡 Front-End Development (React, Redux)  
 - 📊 Data Analysis, Machine Learning & AI  
 - 🧠 Strong foundation in Mathematics, Statistics & Algorithms  
@@ -41,15 +41,61 @@ turning data into intelligent, impactful solutions.
 
 ---
 
-### 🛠️ Tech Stack:
-- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS  
-- **Backend:** Node.js (Basic)  
-- **Data & ML:** Python, Pandas, Scikit-learn, TensorFlow/Keras, PyTorch  
-- **Tools:** Git, Firebase, MySQL  
+## 🛠️ Tech Stack
+
+**Frontend**  
+React · JavaScript · HTML · CSS · Tailwind CSS  
+
+**Mobile Development**  
+Kotlin · Java (Android)  
+
+**Backend**  
+Node.js (Basic)  
+
+**Data & Machine Learning**  
+Python · Pandas · Scikit-learn · TensorFlow/Keras · PyTorch  
+
+**Tools & Databases**  
+Git · Firebase · MySQL  
 
 ---
 
-### 📈 Current Focus:
+## 🚀 Featured Projects
+
+### 📱 Android Applications
+- 🧑‍🏭 **Site Worker Management App**  
+  Built using Jetpack Compose for managing worker records and registrations  
+  *Tech:* Kotlin · Android SDK  
+
+- 📊 **Student Management System (Mobile)**  
+  Mobile system for managing student data and performance  
+  *Tech:* Java/Kotlin · Firebase  
+
+---
+
+### 🤖 Machine Learning Projects
+- 📉 **Performance Prediction Model**  
+  Predictive model using historical data with multiple algorithms  
+  *Tech:* Python · Scikit-learn  
+
+- 🚢 **Titanic Survival Classification**  
+  Classification using Logistic Regression, Decision Trees, and more  
+  *Tech:* Python · Pandas · Scikit-learn  
+
+- 🧠 **Neural Network (MLP)**  
+  Built and trained using Keras with performance analysis  
+  *Tech:* TensorFlow/Keras  
+
+---
+
+### 🌐 Web Development
+- 🌍 **College Portal System**  
+  Role-based system for managing students, courses, and results  
+  *Tech:* React · Node.js · MySQL  
+
+---
+
+## 📈 Current Focus
 - 🤖 Machine Learning & AI Systems  
 - 📊 Data-Driven Applications  
 - 🌐 Scalable Full-Stack Development  
@@ -57,4 +103,4 @@ turning data into intelligent, impactful solutions.
 
 ---
 
-⭐ *Open to collaboration, research opportunities, and ML/Software roles.*
+⭐ **Open to collaboration, research opportunities, and ML/Software roles**

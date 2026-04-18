@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Job Kilonzo</h1>
+<h1 align="center">Hi 👋, I'm Job Peter</h1>
 
 <h3 align="center">
 💻 Front-End Developer | 📊 ICT Officer | 🤖 MSc Computer Science (Machine Learning)
@@ -33,7 +33,7 @@ turning data into intelligent, impactful solutions.
 
 ## 🚀 About Me
 - 🎓 MSc Computer Science (Machine Learning) — *In Progress*  
-- 🎓 BSc Mathematics & Computer Science (First Class Honors)  
+- 🎓 BSc Mathematics & Computer Science 
 - 💡 Front-End Development (React, Redux)  
 - 📊 Data Analysis, Machine Learning & AI  
 - 🧠 Strong foundation in Mathematics, Statistics & Algorithms  
